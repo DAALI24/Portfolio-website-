@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="DilshadAli Ansari monogram">
+  <rect width="64" height="64" rx="16" fill="#0a0a0c"/>
+  <rect x="3.5" y="3.5" width="57" height="57" rx="13.5" fill="none" stroke="#d8ff5f" stroke-opacity=".28"/>
+  <text x="32" y="43" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="30" fill="#d8ff5f">DA</text>
+  <circle cx="52.5" cy="12" r="2.5" fill="#d8ff5f"/>
+</svg>
